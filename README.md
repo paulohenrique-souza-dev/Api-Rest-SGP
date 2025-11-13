@@ -23,6 +23,8 @@ Fazendo com que,somente pessoas autorizadas,com acesso acesse essas urls /json d
 - ✅ **Documentação interativa via Swagger**
 
 O objetivo é ser uma base sólida de api Crud,com esse exemplo montar o exemplo que preferir.
+
 Essa é apenas a parte 1,futuramente venho com o frontend conectado na api.
+
 Esse foi mais um projeto,até a próxima !!!
 
