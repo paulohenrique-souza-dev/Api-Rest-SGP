@@ -1,13 +1,13 @@
-﻿# Compilação e build
+﻿# build
 target/
 bin/
 build/
 out/
 
-# Logs
+
 *.log
 
-# Maven
+
 .mvn/
 !/.mvn/wrapper/maven-wrapper.jar
 mvnw
@@ -35,18 +35,18 @@ application-local.properties
 application-dev.properties
 application-test.properties
 
-# Windows / macOS
+# Windows 
 Thumbs.db
 Desktop.ini
 .DS_Store
 
-# Testes / relatórios
+# Testes
 surefire-reports/
 test-output/
 coverage/
 reports/
 
-# Backups / zips
+# Backups 
 *.zip
 *.rar
 *.tar
