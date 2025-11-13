@@ -1,0 +1,54 @@
+﻿# Compilação e build
+target/
+bin/
+build/
+out/
+
+# Logs
+*.log
+
+# Maven
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+mvnw
+mvnw.cmd
+
+# Gradle
+.gradle/
+!gradle-wrapper.jar
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+.vscode/
+
+# Ambiente
+.env
+*.env
+*.properties.local
+application-local.properties
+application-dev.properties
+application-test.properties
+
+# Windows / macOS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Testes / relatórios
+surefire-reports/
+test-output/
+coverage/
+reports/
+
+# Backups / zips
+*.zip
+*.rar
+*.tar
+*.gz
+*.bak
